@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kunal Das</h1>
+<h1 align="center">Hi 👋, I'm Kunal Das!</h1>
 <h3 align="center">A passionate developer from India, Learning to fly in the cloud</h3>
 
 - 🔭 I’m currently working on [Terraform implementation](https://github.com/kunalworldwide/Terraform-SampleCodes)
