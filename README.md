@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **Azure,Docker etc**
 
+- 📝 I regularly write technical articles for <a href="https://medium.com/@kunaldaskd">Medium</a>
+
 - 📫 How to reach me **kunal.das@protonmail.com**
 
 - ⚡ Fun fact **Still I take notes on physical paper!**
