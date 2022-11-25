@@ -30,3 +30,14 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalworldwide&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="kunalworldwide" /></p>
 <br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalworldwide&show_icons=true&theme=tokyonight&locale=en" alt="kunalworldwide" /></p>
+
+
+<p align="left">
+<h3 align="left">Github Stats:</h3>
+<a href="https://github.com/kunalworldwide">
+  <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalworldwide&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
+</a>
+<a href="https://github.com/kunalworldwide">
+  <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api?username=kunalworldwide&show_icons=true&theme=tokyonight&locale=en" />
+</a>
+</p>
