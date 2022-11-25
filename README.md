@@ -29,4 +29,4 @@
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalworldwide&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="kunalworldwide" /></p>
 <br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalworldwide&show_icons=true&theme=tokyonight&locale=en" alt="kunalworldwide" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kunalworldwide&show_icons=true&theme=tokyonight&locale=en" alt="kunalworldwide" /></p>
