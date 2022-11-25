@@ -27,11 +27,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kunal007"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kunal007" /></a></p>
 <br><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalworldwide&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="kunalworldwide" /></p>
-<br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalworldwide&show_icons=true&theme=tokyonight&locale=en" alt="kunalworldwide" /></p>
-
-
 <p align="left">
 <h3 align="left">Github Stats:</h3>
 <a href="https://github.com/kunalworldwide">
