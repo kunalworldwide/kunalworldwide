@@ -94,15 +94,15 @@ hobbies: ["📸 Photography (Sony A6700)", "🏸 Badminton", "☕ Specialty Coff
 
 </div>
 
----
+<!-- ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kunalworldwide&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
+</div> -->
 
 ---
 
